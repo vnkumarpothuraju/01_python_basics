@@ -40,15 +40,8 @@ The computer understands:
 
 Show Hello on the screen.
 
-
-
-
-
-
-
 Why Do People Like Python?
-
-✅ Easy to Learn
+Easy to Learn
 
 Python is simple to read and write.
 
@@ -58,17 +51,17 @@ print("Welcome")
 
 It looks almost like normal English.
 
-✅ Less Typing
+Less Typing
 
 Python needs fewer lines of code.
 
 That makes programming easier.
 
-✅ Beginner Friendly
+ Beginner Friendly
 
 Even school students can start learning Python.
 
-✅ Used Everywhere
+Used Everywhere
 
 Python is used in:
 
@@ -144,8 +137,6 @@ Ramu checks crop prices using software.
 
 print("Crop Price Updated")
 
-
-
 Student World
 
 Rahul checks his exam marks.
@@ -160,8 +151,6 @@ Blaze unlocks a new level.
 
 print("Level Up")
 
-
-
 Work World
 
 Suresh checks salary details.
@@ -173,8 +162,6 @@ Shopping World
 Kavya uses a billing system in her shop.
 
 print("Discount Applied")
-
-
 
 Technology World
 
